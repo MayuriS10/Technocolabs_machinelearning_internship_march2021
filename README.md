@@ -1,1 +1,0 @@
-# Technocolabs_machinelearning_internship_march2021
